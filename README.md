@@ -15,6 +15,7 @@ Hey! I'm 0beqz and I love working on graphics projects for three.js including:
 🎇 What I'm currently working on:
 - [realism-effects](https://github.com/0beqz/realism-effects): SSGI, Motion Blur, TRAA - effects to enhance your three.js scene's realism
 - [screen-space-reflections](https://github.com/0beqz/screen-space-reflections): Implements Screen Space Reflections in three.js
+- [enhance-shader-lighting](https://github.com/0beqz/enhance-shader-lighting): Better lighting in three.js
 
 🎆 What I've worked on:
 - [three-billboard-reflection](https://github.com/0beqz/three-billboard-reflection): Performant plane reflections in three.js
